@@ -4,3 +4,4 @@ zmiana03
 Zmiana04
 zmiana05
 zmiana06
+Dodano asystenta pomocy
